@@ -107,9 +107,9 @@ All of the test suites were AI-generated and then reviewed.
 ``Screenshots of the application in Light Mode.``
 
 
-![Main screen](screenshots/main_screen.png)
-![Scam Example Paste](screenshots/scam_message.png)
-![Result | 20%](screenshots/result.png)
+![Main screen](screenshots/main_screen.PNG)
+![Scam Example Paste](screenshots/scam_message.PNG)
+![Result](screenshots/result.PNG)
 
 ## AI Interaction Log
 I used AI as a Staff iOS Engineer for architecture planning, edge-case discovery, and rigorous code reviews. Output was not accepted blindly. I actively reviewed the generated output and pushed back when output was not ideal.
